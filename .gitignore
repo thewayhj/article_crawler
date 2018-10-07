@@ -1,0 +1,8 @@
+
+.gitignore
+.idea/article_crawler.iml
+.idea/dataSources/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
